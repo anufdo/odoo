@@ -23,6 +23,11 @@ odoo/addons/base/maintenance
 # window installation config file
 /odoo.conf
 
+# virtualenv
+venv/
+# pyenv
+.python-version
+
 # generated for windows installer?
 install/win32/*.bat
 install/win32/meta.py
